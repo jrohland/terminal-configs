@@ -1,7 +1,12 @@
 My terminal configs
 
+![Iterm2 + zsh + tmux + powerline](/../screenshots/pscreenshots/screenshots/tmux-zsh.png?raw=true "Iterm2 + zsh + tmux + powerline")
+
 Installation:
 ---------
+iTerm2:
+https://www.iterm2.com/
+
 homebrew:
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
@@ -29,3 +34,4 @@ cd powerline-fonts
 ./install.sh
 
 Copy configs from this repo into home directory
+Change your Iterm2 font to one of the powerline-fonts
