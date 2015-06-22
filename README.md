@@ -51,4 +51,11 @@ cd powerline-fonts
 ./install.sh
 ```
 
+tomorrow theme:
+```
+git clone git@github.com:jrohland/tomorrow-theme.git
+
+Import iTerm2/Tomorrow Night.itermcolors into iTerm2 and load the color preset
+```
+
 Copy configs from this repo into home directory. Change your Iterm2 font to one of the powerline-fonts.
