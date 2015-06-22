@@ -1,6 +1,6 @@
 My terminal configs
 
-![Iterm2 + zsh + tmux + powerline](/../screenshots/screenshots/tmux-zsh.png?raw=true "Iterm2 + zsh + tmux + powerline")
+![Iterm2 + zsh + tmux + powerline](/../screenshots/terminal.png?raw=true "Iterm2 + zsh + tmux + powerline")
 
 Installation:
 ---------
