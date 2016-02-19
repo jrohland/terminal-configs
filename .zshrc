@@ -11,7 +11,7 @@ ZSH_THEME="bunsen"
 # CASE_SENSITIVE="true"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
-# DISABLE_AUTO_UPDATE="true"
+DISABLE_AUTO_UPDATE="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
 # export UPDATE_ZSH_DAYS=13
@@ -98,6 +98,9 @@ bindkey '^[[1;9D' backward-word
 
 # auto cd if no command is supplied
 setopt AUTO_CD
+
+# no share history
+setopt NO_SHARE_HISTORY
 
 # powerline
 . /usr/local/lib/python2.7/site-packages/powerline/bindings/zsh/powerline.zsh
